@@ -1,0 +1,14 @@
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.exe.config
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.exe
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.pdb
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.csproj.AssemblyReference.cache
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.csproj.CoreCompileInputs.cache
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.exe
+C:\Users\abega\source\repos\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.pdb
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.exe.config
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.exe
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\bin\Debug\Module2LINQ.pdb
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.csproj.AssemblyReference.cache
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.csproj.CoreCompileInputs.cache
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.exe
+C:\Users\abega\Downloads\Module2LINQ\Module2LINQ\obj\Debug\Module2LINQ.pdb
